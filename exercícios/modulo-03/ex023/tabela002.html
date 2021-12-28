@@ -12,6 +12,7 @@
         table{
             width: 500px;
             border-collapse: collapse;
+            position: relative;
         }
 
         td, th{
@@ -25,10 +26,28 @@
             padding: 10px;
             background-color: lightgrey;
         }
+        
+        /*
+            even é para pares
+            odd é para impares
+            tbody > tr:nth-child(odd){
+            background-color: lightgrey;
+        }
+        */
+
+        tbody > tr:nth-child(2n){
+            background-color: lightgrey;
+        }
 
         thead, tfoot{
-            background-color: gray;
+            background-color: #383838;
             color: white;
+        }
+
+        thead > tr > th{
+            position: sticky;
+            top: -1;
+            background-color: #383838;
         }
 
         td.num{
