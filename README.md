@@ -1,39 +1,44 @@
-# Curso de HTML e CSS - Curso em Vídeo
+# HTML e CSS - Exercícios e Desafios
 
-Este repositório contém o material de estudo utilizado no curso de HTML e CSS da plataforma Curso em Vídeo. O curso é ministrado pelo professor Gustavo Guanabara e tem como objetivo ensinar as linguagens de marcação HTML e CSS de uma forma prática e divertida.
+Este repositório reúne exercícios e desafios práticos de HTML e CSS, organizados por módulos, para auxiliar no aprendizado e fixação dos principais conceitos dessas tecnologias.
 
-## Estrutura do curso
+## Estrutura do Projeto
 
-O curso é dividido em três partes principais:
+```
+├── desafios/
+│   ├── modulo-01/
+│   ├── modulo-02/
+│   └── modulo-03/
+├── exercícios/
+│   ├── modulo-01/
+│   ├── modulo-02/
+│   ├── modulo-03/
+│   └── modulo-04/
+├── PDF - HTML e CSS/
+│   └── (apostilas e materiais de apoio)
+├── LICENSE
+└── README.md
+```
 
-1. **Módulo 1**: Introdução ao HTML
-   - Estrutura básica de um documento HTML
-   - Tags HTML
-   - Atributos HTML
-   - Listas e links
-   - Imagens e vídeos
+### Pastas principais
 
-2. **Módulo 2**: Introdução ao CSS
-   - Sintaxe CSS
-   - Seletores CSS
-   - Propriedades CSS
-   - Estilização de texto e links
-   - Box Model
+- **desafios/**: Propostas de desafios para praticar HTML e CSS, separados por módulos e temas. Cada desafio possui um PDF com instruções e arquivos de apoio.
+- **exercícios/**: Exercícios resolvidos, organizados por módulos e tópicos, com exemplos práticos de código.
+- **PDF - HTML e CSS/**: Apostilas, materiais de referência e apoio ao estudo.
 
-3. **Módulo 3**: Desenvolvimento de sites
-   - Layouts com CSS
-   - Responsividade com media queries
-   - Formulários HTML
-   - Tabelas HTML
-   - Projeto final
+## Como utilizar
 
-## Como usar
+1. Navegue pelas pastas de desafios ou exercícios conforme o módulo desejado.
+2. Abra os arquivos `.html` no seu navegador para visualizar os resultados.
+3. Consulte os PDFs para orientações e teoria.
+4. Edite e experimente os códigos para fixar o aprendizado.
 
-Este repositório contém os códigos-fonte utilizados nas aulas, bem como os arquivos de exercícios e projetos. Você pode clonar este repositório em sua máquina local e seguir as instruções do curso para aprender HTML e CSS.
+## Créditos
 
-## Contribuindo
+Material baseado no curso de HTML5 e CSS3 do professor Gustavo Guanabara (Curso em Vídeo) e complementado com exercícios próprios.
 
-Se você gostaria de contribuir para este projeto, sinta-se à vontade para enviar um pull request ou entrar em contato comigo diretamente.
+---
+Sinta-se à vontade para contribuir ou sugerir melhorias!
 
 ## Licença
 
